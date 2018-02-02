@@ -1,0 +1,10 @@
+c:\users\jelmer\source\repos\VocabKanjiAddImages\VocabKanjiAddImages\bin\Debug\VocabKanjiAddImages.exe.config
+c:\users\jelmer\source\repos\VocabKanjiAddImages\VocabKanjiAddImages\bin\Debug\VocabKanjiAddImages.exe
+c:\users\jelmer\source\repos\VocabKanjiAddImages\VocabKanjiAddImages\bin\Debug\VocabKanjiAddImages.pdb
+c:\users\jelmer\source\repos\VocabKanjiAddImages\VocabKanjiAddImages\obj\Debug\VocabKanjiAddImages.csprojResolveAssemblyReference.cache
+c:\users\jelmer\source\repos\VocabKanjiAddImages\VocabKanjiAddImages\obj\Debug\VocabKanjiAddImages.Form1.resources
+c:\users\jelmer\source\repos\VocabKanjiAddImages\VocabKanjiAddImages\obj\Debug\VocabKanjiAddImages.Properties.Resources.resources
+c:\users\jelmer\source\repos\VocabKanjiAddImages\VocabKanjiAddImages\obj\Debug\VocabKanjiAddImages.csproj.GenerateResource.Cache
+c:\users\jelmer\source\repos\VocabKanjiAddImages\VocabKanjiAddImages\obj\Debug\VocabKanjiAddImages.csproj.CoreCompileInputs.cache
+c:\users\jelmer\source\repos\VocabKanjiAddImages\VocabKanjiAddImages\obj\Debug\VocabKanjiAddImages.exe
+c:\users\jelmer\source\repos\VocabKanjiAddImages\VocabKanjiAddImages\obj\Debug\VocabKanjiAddImages.pdb

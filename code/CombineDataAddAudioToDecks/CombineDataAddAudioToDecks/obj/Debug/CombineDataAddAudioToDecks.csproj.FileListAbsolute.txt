@@ -1,0 +1,10 @@
+C:\Users\Jelmer\source\repos\CombineDataAddAudioToDecks\CombineDataAddAudioToDecks\bin\Debug\CombineDataAddAudioToDecks.exe.config
+C:\Users\Jelmer\source\repos\CombineDataAddAudioToDecks\CombineDataAddAudioToDecks\bin\Debug\CombineDataAddAudioToDecks.exe
+C:\Users\Jelmer\source\repos\CombineDataAddAudioToDecks\CombineDataAddAudioToDecks\bin\Debug\CombineDataAddAudioToDecks.pdb
+C:\Users\Jelmer\source\repos\CombineDataAddAudioToDecks\CombineDataAddAudioToDecks\obj\Debug\CombineDataAddAudioToDecks.csprojResolveAssemblyReference.cache
+C:\Users\Jelmer\source\repos\CombineDataAddAudioToDecks\CombineDataAddAudioToDecks\obj\Debug\CombineDataAddAudioToDecks.Form1.resources
+C:\Users\Jelmer\source\repos\CombineDataAddAudioToDecks\CombineDataAddAudioToDecks\obj\Debug\CombineDataAddAudioToDecks.Properties.Resources.resources
+C:\Users\Jelmer\source\repos\CombineDataAddAudioToDecks\CombineDataAddAudioToDecks\obj\Debug\CombineDataAddAudioToDecks.csproj.GenerateResource.Cache
+C:\Users\Jelmer\source\repos\CombineDataAddAudioToDecks\CombineDataAddAudioToDecks\obj\Debug\CombineDataAddAudioToDecks.csproj.CoreCompileInputs.cache
+C:\Users\Jelmer\source\repos\CombineDataAddAudioToDecks\CombineDataAddAudioToDecks\obj\Debug\CombineDataAddAudioToDecks.exe
+C:\Users\Jelmer\source\repos\CombineDataAddAudioToDecks\CombineDataAddAudioToDecks\obj\Debug\CombineDataAddAudioToDecks.pdb

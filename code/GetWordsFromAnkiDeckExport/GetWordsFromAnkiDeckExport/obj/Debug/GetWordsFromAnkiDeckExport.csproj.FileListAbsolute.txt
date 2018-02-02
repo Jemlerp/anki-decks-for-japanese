@@ -1,0 +1,9 @@
+C:\Users\Jelmer\source\repos\GetWordsFromAnkiDeckExport\GetWordsFromAnkiDeckExport\bin\Debug\GetWordsFromAnkiDeckExport.exe.config
+C:\Users\Jelmer\source\repos\GetWordsFromAnkiDeckExport\GetWordsFromAnkiDeckExport\bin\Debug\GetWordsFromAnkiDeckExport.exe
+C:\Users\Jelmer\source\repos\GetWordsFromAnkiDeckExport\GetWordsFromAnkiDeckExport\bin\Debug\GetWordsFromAnkiDeckExport.pdb
+C:\Users\Jelmer\source\repos\GetWordsFromAnkiDeckExport\GetWordsFromAnkiDeckExport\obj\Debug\GetWordsFromAnkiDeckExport.Form1.resources
+C:\Users\Jelmer\source\repos\GetWordsFromAnkiDeckExport\GetWordsFromAnkiDeckExport\obj\Debug\GetWordsFromAnkiDeckExport.Properties.Resources.resources
+C:\Users\Jelmer\source\repos\GetWordsFromAnkiDeckExport\GetWordsFromAnkiDeckExport\obj\Debug\GetWordsFromAnkiDeckExport.csproj.GenerateResource.Cache
+C:\Users\Jelmer\source\repos\GetWordsFromAnkiDeckExport\GetWordsFromAnkiDeckExport\obj\Debug\GetWordsFromAnkiDeckExport.csproj.CoreCompileInputs.cache
+C:\Users\Jelmer\source\repos\GetWordsFromAnkiDeckExport\GetWordsFromAnkiDeckExport\obj\Debug\GetWordsFromAnkiDeckExport.exe
+C:\Users\Jelmer\source\repos\GetWordsFromAnkiDeckExport\GetWordsFromAnkiDeckExport\obj\Debug\GetWordsFromAnkiDeckExport.pdb

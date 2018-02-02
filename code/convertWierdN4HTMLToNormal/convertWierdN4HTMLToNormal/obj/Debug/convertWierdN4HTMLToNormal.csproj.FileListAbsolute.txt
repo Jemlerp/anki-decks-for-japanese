@@ -1,0 +1,10 @@
+c:\users\jelmer\source\repos\convertWierdN4HTMLToNormal\convertWierdN4HTMLToNormal\bin\Debug\convertWierdN4HTMLToNormal.exe.config
+c:\users\jelmer\source\repos\convertWierdN4HTMLToNormal\convertWierdN4HTMLToNormal\bin\Debug\convertWierdN4HTMLToNormal.exe
+c:\users\jelmer\source\repos\convertWierdN4HTMLToNormal\convertWierdN4HTMLToNormal\bin\Debug\convertWierdN4HTMLToNormal.pdb
+c:\users\jelmer\source\repos\convertWierdN4HTMLToNormal\convertWierdN4HTMLToNormal\obj\Debug\convertWierdN4HTMLToNormal.csprojResolveAssemblyReference.cache
+c:\users\jelmer\source\repos\convertWierdN4HTMLToNormal\convertWierdN4HTMLToNormal\obj\Debug\convertWierdN4HTMLToNormal.Form1.resources
+c:\users\jelmer\source\repos\convertWierdN4HTMLToNormal\convertWierdN4HTMLToNormal\obj\Debug\convertWierdN4HTMLToNormal.Properties.Resources.resources
+c:\users\jelmer\source\repos\convertWierdN4HTMLToNormal\convertWierdN4HTMLToNormal\obj\Debug\convertWierdN4HTMLToNormal.csproj.GenerateResource.Cache
+c:\users\jelmer\source\repos\convertWierdN4HTMLToNormal\convertWierdN4HTMLToNormal\obj\Debug\convertWierdN4HTMLToNormal.csproj.CoreCompileInputs.cache
+c:\users\jelmer\source\repos\convertWierdN4HTMLToNormal\convertWierdN4HTMLToNormal\obj\Debug\convertWierdN4HTMLToNormal.exe
+c:\users\jelmer\source\repos\convertWierdN4HTMLToNormal\convertWierdN4HTMLToNormal\obj\Debug\convertWierdN4HTMLToNormal.pdb
